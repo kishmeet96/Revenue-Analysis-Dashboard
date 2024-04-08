@@ -15,4 +15,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2.	Create a dashboard according to the mock-up provided by stakeholders.
 3.	Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+
+
 ## Dashboard Preview : ![Dashboard](https://github.com/kishmeet96/Revenue-Analysis-Dashboard/assets/105632928/8920171d-ea2f-47d3-b239-ae681ce35e77)
